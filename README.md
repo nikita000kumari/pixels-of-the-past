@@ -16,6 +16,29 @@
 
 ---
 
+## 📸 In-Game Visual Showcase
+
+### 🏺 1. The Indus Valley Civilization (Harappa & Mohenjo-daro • c. 2600 BCE)
+*Traversing the Citadel Processional Stairway, bitumen-sealed Great Bath ramparts, kiln-baked brick Lower Town quarters, and the Excavation Treasury with antique stone & gold filigree signage.*
+
+![Harappan Civilization](screenshots/harappa_realm.png)
+
+---
+
+### 🛕 2. The Classical Gupta Dynasty (The Golden Age of India • c. 375 CE)
+*Exploring the sacred rust-resistant Garuda Iron Pillar of Delhi, the Panchayatana Dashavatara Vishnu Sanctum of Deogarh, the red-brick Nalanda Mahavihara monastic library, and the interactive Gold Coin of Chandragupta II.*
+
+![Gupta Golden Age](screenshots/gupta_realm.png)
+
+---
+
+### 🕌 3. The Mughal Empire (Imperial Architecture & Charbagh • c. 1526 CE)
+*Walking the central quadripartite Charbagh water canals with paradise fountains, Akbar's monumental Buland Darwaza victory gate at Fatehpur Sikri, and the white marble dome of the Taj Mahal.*
+
+![Mughal Empire](screenshots/mughal_realm.png)
+
+---
+
 ## 🌟 Key Features
 
 - **🎮 Physics-Driven Third-Person Exploration**: Kinematic 3D player controller with responsive WASD movement, orbit camera controls, sprint multipliers, jump physics, ground raycasting, and fall-safe respawn mechanisms.
