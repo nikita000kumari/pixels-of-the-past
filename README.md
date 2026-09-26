@@ -1,5 +1,9 @@
 # 🏛️ Pixels of the Past
+
 ### *Immersive 3D Cultural Heritage Engine & Historical Exploration Platform*
+
+> 🏆 **Developed for Smart India Hackathon (SIH) 2026**  
+> **Challenge:** Conceptualize and develop unique toys and games based on India's civilization, history and culture.
 
 [![React 19](https://img.shields.io/badge/React-19.0-61DAFB?logo=react&logoColor=black)](https://react.dev/)
 [![Three.js](https://img.shields.io/badge/Three.js-WebGL-black?logo=three.js)](https://threejs.org/)
@@ -7,12 +11,18 @@
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Pixels of the Past** is a browser-native 3D historical simulation engine designed to preserve, reconstruct, and celebrate ancient Indian civilizational heritage. Operating entirely in modern web browsers via WebGL, Three.js, and WebAssembly physics with **zero downloads or plugins required**, the platform empowers users to physically traverse and interact with three foundational epochs of Indian history:
+**Pixels of the Past** is a browser-native 3D cultural heritage exploration platform designed to bring Indian civilization, history and cultural heritage into an interactive game environment. Operating entirely in modern web browsers via WebGL, Three.js, and WebAssembly physics with **zero downloads or plugins required**, the platform empowers users to physically traverse and interact with three foundational epochs of Indian history:
 
 1. **🏺 Indus Valley / Harappan Civilization (c. 2600 BCE)**: Bronze Age urban planning, the bitumen-sealed Great Bath of Mohenjo-daro, citadel granaries, kiln-baked brick residential grids, and ancient steatite/bronze relics.
 2. **🛕 Classical Gupta Dynasty (c. 375 CE)**: The Golden Age of Indian science, the rust-resistant Iron Pillar of Delhi, Dashavatara Vishnu sanctum at Deogarh, Nalanda Mahavihara University, and Dhamek Stupa of Sarnath.
 3. **🕌 Mughal Empire (c. 1526 CE)**: Imperial Indo-Islamic architecture, pure Makrana white marble mausoleums (Taj Mahal), red sandstone fortresses (Agra Fort), Buland Darwaza of Fatehpur Sikri, and quadripartite Charbagh paradise gardens.
 4. **⚡ Temporal Cyber Hub**: A futuristic portal plaza allowing seamless time-travel jumps across millennia, complete with physics jump ramps and test obstacles.
+
+## 🇮🇳 Smart India Hackathon 2026
+
+**Pixels of the Past** was developed as a solution for **Smart India Hackathon 2026**, addressing the challenge of creating unique toys and games inspired by India's civilization, history and cultural heritage.
+
+The project reimagines historical learning as an **interactive, browser-native 3D exploration experience**, combining spatial exploration, contextual storytelling, artifact discovery and gamified interaction.
 
 ---
 
